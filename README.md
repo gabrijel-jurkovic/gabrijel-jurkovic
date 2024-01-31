@@ -6,25 +6,14 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabrijel-jurkovic-7a4155123/)
 [![Outlook](https://skillicons.dev/icons?i=gmail)](mailto:gabrijel.j@outlook.com)
 
-
-
 ## A quote
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
 
 ## My tech stack
 [![My tech stack](https://skillicons.dev/icons?i=js,nodejs,ts,nestjs,angular,swift,python,mongo,postgres,kubernetes)](https://skillicons.dev)
 
 ## My favourite tools
 [![My favourite tools](https://skillicons.dev/icons?i=idea,vscode,docker,postman)](https://skillicons.dev)
-
-## My stats
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabrijel-jurkovic&show_icons=true&count_private=true&theme=dark" />
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrijel-jurkovic&layout=compact&theme=dark" />
-</p>
-
 
 ## When I'm AFK:
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
