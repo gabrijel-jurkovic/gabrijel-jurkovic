@@ -1,6 +1,12 @@
 [![Hello World, I'm Gabrijel!](banner.png)](https://github.com/gabrijel-jurkovic)
-<div align="center">
+- I'm currently working at [Plume Design, Inc.](https://www.linkedin.com/company/plume-wifi) as a Cloud API Engineer ☁️
+- I'm passionate about all things SSO 🔐
+- I like to be up to date with awesome new AI technologies 🤖
+- Fun fact: I listen to audiobooks 🎧📚 and play games 🕹️ in my spare time 
 
+
+<div align="center">
+  
 ## You can contact me on
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabrijel-jurkovic-7a4155123/)
 [![Outlook](https://skillicons.dev/icons?i=gmail)](mailto:gabrijel.j@outlook.com)
@@ -11,7 +17,7 @@
 ## My tech stack
 [![My tech stack](https://skillicons.dev/icons?i=js,nodejs,ts,nestjs,angular,swift,python,mongo,postgres,kubernetes)](https://skillicons.dev)
 
-## My favourite tools
+## My favorite tools
 [![My favourite tools](https://skillicons.dev/icons?i=idea,vscode,docker,postman)](https://skillicons.dev)
 
 ## When I'm AFK:
