@@ -1,5 +1,4 @@
-
-
+[![Hello World, I'm Gabrijel!](banner.png)](https://github.com/gabrijel-jurkovic)
 <div align="center">
 
 ## You can contact me on
